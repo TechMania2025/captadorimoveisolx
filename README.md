@@ -13,8 +13,11 @@ O objetivo é simplificar e agilizar a criação de buscas personalizadas. O usu
 
 -----------------------------------------
 Run Locally
+
 Prerequisites: Node.js
 
 Install dependencies: npm install
+
 Set the GEMINI_API_KEY in .env.local to your Gemini API key
+
 Run the app: npm run dev
