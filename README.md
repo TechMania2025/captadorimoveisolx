@@ -10,3 +10,11 @@ O objetivo é simplificar e agilizar a criação de buscas personalizadas. O usu
 2.  Execute a aplicação.
 3.  Preencha os campos com os detalhes do imóvel desejado.
 4.  Clique no botão para ser redirecionado para a busca na OLX.
+
+-----------------------------------------
+Run Locally
+Prerequisites: Node.js
+
+Install dependencies: npm install
+Set the GEMINI_API_KEY in .env.local to your Gemini API key
+Run the app: npm run dev
